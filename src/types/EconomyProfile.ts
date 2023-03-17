@@ -6,4 +6,4 @@ export type EconomyProfile = {
   guildId: string;
   wallet: number;
   bank: number;
-};
+}
