@@ -1,0 +1,16 @@
+{
+  "name": "disconomy.js",
+  "version": "0.0.3",
+  "description": "Disconomy is a package based on mongoose that helps you create a economy system for your discord bot.",
+  "main": "dist/index.js",
+  "author": "Costin",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/test.js",
+    "build": "tsc -p ."
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "mongoose": "^7.0.2"
+  }
+}
